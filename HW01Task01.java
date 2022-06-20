@@ -18,6 +18,7 @@ public class HW01Task01 {
         return result;
     }
 
+    
     public static void main(String[] args) {
         int number = getRandomNumber(2, 10);
         System.out.println("Число - " + number);
